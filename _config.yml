@@ -1,19 +1,19 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+title: SEOK7
+description: This is my Github pages
+taglong: This is my Github pages
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://Donidodni.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/Donidodni/Donidodni.github.io
 
 # author settings
 
 author:
   name: Place Holder
-  email: username@domain.com
+  email: donidodni07@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
