@@ -1,2 +1,2 @@
-I'm not made this and i could'nt <br>
+I didn't make this and i couldn't <br>
 go to https://github.com/piazzai/cvless
